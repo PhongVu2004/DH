@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "418838647617",
+    "project_id": "smart-walking-cane-bac21",
+    "storage_bucket": "smart-walking-cane-bac21.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418838647617:android:3fd4d372c09616a73c47c0",
+        "android_client_info": {
+          "package_name": "com.example.smart_cane"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd8Ix7gs-j-eNKVOIQnwHSeRQLLz5PedA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
